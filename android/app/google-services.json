@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691995722054",
+    "firebase_url": "https://qrpos-c1584-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "qrpos-c1584",
+    "storage_bucket": "qrpos-c1584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691995722054:android:d806928f4d9a544c2c6547",
+        "android_client_info": {
+          "package_name": "com.example.qrpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691995722054-p2g35tniaoth2eos40peqbn9a021nfvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5B0j-WR3yBHvMNb5ZPFSfriu_wXRENSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691995722054-p2g35tniaoth2eos40peqbn9a021nfvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
